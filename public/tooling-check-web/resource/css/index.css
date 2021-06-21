@@ -1,0 +1,11 @@
+button.btn {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+
+}
+.contain{
+    border: 1px;
+
+}
